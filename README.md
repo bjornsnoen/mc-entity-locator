@@ -2,9 +2,13 @@
 
 ## Installation
 Clone this project to your machine using git
+
 Initialize the project with a virtualenv
+
 `$ python -m venv .venv`
+
 `$ source .venv/bin/activate`
+
 `$ pip install -r requirements.txt`
 
 ## Find the thing
